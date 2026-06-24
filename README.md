@@ -20,4 +20,4 @@ A Python-based application that generates student report cards by calculating to
 3. Run student_report_card_generator.py
 
 ## Author
-Manisha
+Manisha G
